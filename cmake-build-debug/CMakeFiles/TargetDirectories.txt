@@ -1,0 +1,3 @@
+/Users/christinegao/Downloads/Week8DiscussionStarterCode/cmake-build-debug/CMakeFiles/Week8.dir
+/Users/christinegao/Downloads/Week8DiscussionStarterCode/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/christinegao/Downloads/Week8DiscussionStarterCode/cmake-build-debug/CMakeFiles/rebuild_cache.dir
